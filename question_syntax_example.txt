@@ -1,0 +1,6 @@
+<id (int)>`<question type (int)>`<question body (string)>`<answer options(vec string)>`<answer (char)>`<tags (vec string)>
+
+example SA question stored in file
+<id (int)>`<question type (int)>`<question body (string)>`<answer (string)>`<tags (vec string)>
+
+0`0`Would this code have a memory error: vector<int> a; a[0] = 5;`Yes,No`a`vectors,memory

@@ -1,0 +1,43 @@
+Multiple Choice
+Would this code have a memory error: vector<int> a; a[0] = 5;
+a) Yes
+b) No
+Answer:
+a
+Tags:
+vectors,memory
+
+Multiple Choice
+Which declaration intended to create a 3D array is correct?
+a) int a[][][];
+b) new int[3][4][5];
+c) int a[3];
+d) int a[3][4][5];
+e) int [][4][5];
+Answer:
+d
+Tags:
+multi-dimensional arrays
+
+Multiple Choice
+Given two variables, x and y of the type vector<int>, a deep copy will be made when the expression x=y, is evaluated:
+a) True
+b) False
+Answer:
+a
+Tags:
+vectors,memory
+
+Short Answer
+Explain how to allocate an array of variable size in C++ in words.
+Answer:
+dynamic allocation
+Tags:
+arrays,dynamic allocation
+
+Short Answer
+For images, the range of pixel values is generally 0-255. Thus, in C++, they should be stored using variables of type:
+Answer:
+unsigned char
+Tags:
+image processing,data types

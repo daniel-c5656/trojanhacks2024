@@ -1,0 +1,1 @@
+0`0`Would this code have a memory error: vector<int> a; a[0] = 5;`Yes,No`a`vectors,memory
